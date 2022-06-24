@@ -1,6 +1,6 @@
 # Hi I'm nokosan(nokosaaan)👋
 <body>
-  <h1>自己紹介なのです</h1>
+  <h1><a href="#top">自己紹介なのです</a></h1>
   <ul>
     <li>
       <a href="#zero">Basic Information</a>
@@ -33,7 +33,7 @@
     <li>rhythm game</li>
     </ul>
     <hr />
-<a href="https://github.com/nokosaaan/nokosaaan/edit/main/README.md">先頭に戻る</a>
+<a id="top">先頭に戻る</a>
 </p>
 </body>
 <!--
