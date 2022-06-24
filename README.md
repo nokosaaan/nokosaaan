@@ -1,21 +1,21 @@
-### Hi I'm nokosan(nokosaaan)
+# Hi I'm nokosan(nokosaaan)👋
 <body>
-  <h1>本の紹介文ページ</h1>
+  <h1>自己紹介なのです</h1>
   <ul>
     <li>
-      <a href="#zero">紹介する本の基本情報</a>
+      <a href="#zero">Basic Information</a>
     </li>
     <li>
-      <a href="#first">あらすじ</a>
+      <a href="#first">Works</a>
     </li>
     <li>
-      <a href="#second">読みどころ</a>
+      <a href="#second">Hobbies</a>
     </li>
     <li>
-      <a href="#third">学べるところ</a>
+      <a href="#third">Recommendation</a>
     </li>
   </ul>
-  <h2 id="zero">紹介する本の基本情報</h2>
+  <h2 id="zero">基本情報</h2>
   <ol>
     <li>哲学思考トレーニング</li>
     <p>
