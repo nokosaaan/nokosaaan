@@ -15,40 +15,13 @@
       <a href="#third">Recommendation</a>
     </li>
   </ul>
-  <h2 id="zero">基本情報</h2>
+  <h2 id="zero">Basic Information</h2>
   <ol>
-    <li>哲学思考トレーニング</li>
-    <p>
-      - タイトル：哲学思考トレーニング
-    </p>
-    <p>
-      - 著者名：伊勢田哲治
-    </p>
-    <p>
-      - 出版社：筑摩書房
-    </p>
-    <p>
-      - ISBN：　4480062459
-    </p>
-    <p>
-      - 国会図書館の蔵書ページ： <a href="http://iss.ndl.go.jp/books/R100000002-I000007835462-00">http://iss.ndl.go.jp/books/R100000002-I000007835462-00</a>
-    </p>
-    <li>カント「純粋理性批判」入門</li>
-    <p>
-      - タイトル：カント「純粋理性批判」入門
-    </p>
-    <p>
-      - 著者名：黒崎政男
-    </p>
-    <p>
-      - 出版社：講談社
-    </p>
-    <p>
-      - ISBN：　4062581922
-    </p>
-    <p>
-      - 国会図書館の蔵書ページ：<a href="https://iss.ndl.go.jp/books/R100000002-I000002921553-00">https://iss.ndl.go.jp/books/R100000002-I000002921553-00</a>
-    </p>
+    <li>Name:nokosan</li>
+    <li>Age:19</li>
+    <li>Gender:male</li>
+    <li>Affiliation:SaitamaUniversity
+    </li>
     </ol>
 <h2 id="first">あらすじ</h2>
 <ol>
