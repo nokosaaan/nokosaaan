@@ -26,7 +26,7 @@
   <ul>
     <li><a href="../22TI074-recommends/index.html">本の紹介文ページ</a></li>
     <li><a href="https://github.com/nokosaaan/ITP_code_collections">ITP_code_collections</a></li>
-    <li><a href="https://github.com/nokosaaan/pracrepo/blob/master/GPA_caluculater.cpp">GPA計算機(c++)</a><li>
+    <li><a href="https://github.com/nokosaaan/pracrepo/blob/master/GPA_caluculater.cpp">GPA計算機(c++)</a></li>
     </ul>
 <h2 id="second">Hobbies</h2>
   <ul>
