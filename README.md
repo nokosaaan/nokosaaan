@@ -18,7 +18,7 @@
   <h2 id="zero">Basic Information</h2>
   <ul>
     <li>Name:nokosan(≧∇≦)</li>
-    <li>Age:19</li>
+    <li>Age:20</li>
     <li>Gender:male♂</li>
     <li>Affiliation:SaitamaUniversity</li>
     </ul>
