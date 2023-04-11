@@ -32,7 +32,7 @@
   <ul>
     <li>anime</li>
     <li>cartoon</li>
-    <li>rhythm game</li>
+    <li><a href="https://github.com/nokosaaan/yui_diff.git">rhythm game</a></li>
     </ul>
     <hr />
 <a href="#top">先頭に戻る</a>
