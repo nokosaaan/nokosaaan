@@ -30,7 +30,7 @@
     </ul>
 <h2 id="second">Hobbies</h2>
   <ul>
-    <li>anime</li>
+    <li><a href="https://github.com/nokosaan/hobby.git">anime</a></li>
     <li>cartoon</li>
     <li><a href="https://github.com/nokosaaan/yui_diff.git">rhythm game</a></li>
     </ul>
