@@ -17,8 +17,8 @@
   </ul>
   <h2 id="zero">Basic Information</h2>
   <ul>
-    <li>Name:nokosan(≧∇≦)</li>
-    <li>Age:21</li>
+    <li>Name:nokosan</li>
+    <li>Age:22</li>
     <li>Gender:male♂</li>
     <li>Affiliation:SaitamaUniversity</li>
     </ul>
@@ -32,7 +32,7 @@
   <ul>
     <li><a href="https://github.com/nokosaaan/hobby">anime</a></li>
     <li>cartoon</li>
-    <li><a href="https://github.com/nokosaaan/yui_diff.git">rhythm game</a></li>
+    <li>rhythm game</a></li>
     </ul>
     <hr />
 <a href="#top">先頭に戻る</a>
